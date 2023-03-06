@@ -29,12 +29,13 @@
     * 管理Git仓库，代码备份
   * VM Ware
     * 安装虚拟机环境
-  * **Xsh  ell**
+  * **Xshell**
   * Xftp
   * putty
-  * VNC
+  * VNC viewer
     * 远程连接、文件传输
   * Adavanced IP Scanner
+	* 查看局域网下IP信息
 * 学习:
   * **OneNote**
     * 做笔记，电脑、手机、平板实时同步
@@ -42,6 +43,8 @@
     * 整理文献
   * **Zotero**
     * 整理文献
+  * **Typora**
+	* 写markdown文档
   * Mathtype
     * 编辑数学公式
   * **DeepL**
@@ -51,7 +54,7 @@
     * 快速搜索文件
   * Listary
     * 快速搜索文件
-  * **TrafficMonitor**
+  * TrafficMonitor
     * 电脑网速/CPU/内存监控小软件
   * Quicklook
     * 快速查看pdf
@@ -62,6 +65,8 @@
   * **谷歌浏览器+各种插件**
     * 使用舒适
   * 网易邮箱大师
+  * oCam
+	* 小型电脑录屏软件
 
 ---
 
@@ -97,7 +102,7 @@
 |  内容   | 备注  |  进度 |
 |  ----  | ----  | ---- |
 | 深度学习框架，Tensorflow、PyTorch等 |  | √ |
-| C++入门  |  |   |
+| C++入门  |  | √ |
 | 数据结构与算法  |  |   |
 | CMake、gcc、gdb |  |   |
 | Shell脚本编程 |  |   |
