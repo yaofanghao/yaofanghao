@@ -43,6 +43,8 @@
     * 整理文献
   * **Zotero**
     * 整理文献
+  * **Zotero-better-notes**
+    * https://zotero.yuque.com/staff-gkhviy/better-notes/gw5d7v?
   * **Typora**
 	* 写markdown文档
   * Mathtype
@@ -87,6 +89,7 @@
 | XShell、Putty、VNC工具  |  | √ |
 | Git和github管理、TortoiseGit  |  | √ |
 | C入门  |  |   |
+| CMake、gcc、gdb |  |   |
 | Python  |  | √ |
 | PyQt  |  | √ |
 | MATLAB  |  | √ |
@@ -104,7 +107,6 @@
 | 深度学习框架，Tensorflow、PyTorch等 |  | √ |
 | C++入门  |  | √ |
 | 数据结构与算法  |  |   |
-| CMake、gcc、gdb |  |   |
 | Shell脚本编程 |  |   |
 | vim使用 |  |   |
 | 基于C++的OpenCV实现  |  | √ |
@@ -119,12 +121,13 @@
 | ------------------------------ | ---- | ---- |
 | 现代C++                        |      |      |
 | C++STL                         |      |      |
-| C++并发编程                    |      |      |
+| C++网络编程                    |      |      |
 | CSAPP                          |      |      |
 | 设计模式                       |      |      |
 | 操作系统                       |      |      |
 | 计算机组成原理                 |      |      |
 | 计算机网络                     |      |      |
+| Linux系统编程                  |      |      |
 | Linux驱动内核                  |      |      |
 | docker                         |      |      |
 | 个人服务器搭建                 |      |      |
@@ -211,6 +214,7 @@
 | 重构 | Martin Fowler |  |
 | C++ 程序设计语言-全四册 | Bjarne | √ |
 | C++并发编程实战 | Anthony | √ |
+| Linux是怎样工作的 | 武内堂 |  |
 | Linux/UNIX系统编程手册 | Michael Kerrisk |  |
 | STL源码剖析 | 侯捷 |  |
 | 现代C++语言核心特性解析 | 谢丙堃 |  |
