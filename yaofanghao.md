@@ -91,6 +91,7 @@
 | markdown语法  |  | √ |
 | C入门  |  |   |
 | CMake、gcc、gdb |  |   |
+| vim使用 |  |   |
 | Python  |  | √ |
 | PyQt  |  | √ |
 | MATLAB  |  | √ |
@@ -112,7 +113,6 @@
 | 计算机组成原理 |  |  |
 | 计算机网络  |   |  |
 | Shell脚本编程 |  |   |
-| vim使用 |  |   |
 | 基于C++的OpenCV实现  |  | √ |
 | 基于C++的OpenNI实现  |  | √ |
 | 基于C++的机器学习方法，如SVM  |  | √ |
@@ -205,13 +205,13 @@
 | 流畅的Python | Luciano |  |
 | C程序设计语言 | K&R |  √ |
 | C和指针 | Kenneth A.Reek |  √ |
-| C++ Primer | Stanley B. Lippman | |
+| C++ Primer | Stanley B. Lippman |√ |
 | 数据结构C++版 | 邓俊辉 |  |
-| 剑指Offer |  |  |
+| 剑指Offer |  | √ |
 | Essential C++ | Stanley |  |
 | Effective C++ | Scott |  |
 | More Effective C++ | Scott |  |
-| 编程珠玑 | Jon Bentley |  |
+| 编程珠玑 | Jon Bentley | √ |
 | 代码大全 | 麦克康奈尔 |  |
 | 重构 | Martin Fowler |  |
 | C++ 程序设计语言-全四册 | Bjarne | √ |
