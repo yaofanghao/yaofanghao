@@ -88,6 +88,7 @@
 | Linux命令行入门  |  | √ |
 | XShell、Putty、VNC工具  |  | √ |
 | Git和github管理、TortoiseGit  |  | √ |
+| markdown语法  |  | √ |
 | C入门  |  |   |
 | CMake、gcc、gdb |  |   |
 | Python  |  | √ |
@@ -98,7 +99,7 @@
 | C++实现的串口通信 |  | √  |
 | Multisim  |  | √ |
 | COMSOL仿真基础  |  | √ |
-| SQL语法  |  | √ |
+| SQL语法  |  |  |
 --------------------
 
 进阶
@@ -107,6 +108,9 @@
 | 深度学习框架，Tensorflow、PyTorch等 |  | √ |
 | C++入门  |  | √ |
 | 数据结构与算法  |  |   |
+| 操作系统 |  |   |
+| 计算机组成原理 |  |  |
+| 计算机网络  |   |  |
 | Shell脚本编程 |  |   |
 | vim使用 |  |   |
 | 基于C++的OpenCV实现  |  | √ |
@@ -124,15 +128,12 @@
 | C++网络编程                    |      |      |
 | CSAPP                          |      |      |
 | 设计模式                       |      |      |
-| 操作系统                       |      |      |
-| 计算机组成原理                 |      |      |
-| 计算机网络                     |      |      |
 | Linux系统编程                  |      |      |
 | Linux驱动内核                  |      |      |
 | docker                         |      |      |
 | 个人服务器搭建                 |      |      |
-| TF-lite、Paddle-lite           |      |      |
-| 树莓派、工控机等轻量级图像处理 |      |      |
+| TF-lite、Paddle-lite 等        |      |      |
+| 树莓派、工控机等轻量级图像处理 |      |   √  |
 | TinyML低功耗设备机器学习       |      |      |
 
 ---
@@ -196,8 +197,9 @@
 |  ----  | ----  | ---- |
 | 深入理解计算机系统（CSAPP） |  |  |
 | 计算机网络 | 谢希仁 |  |
-| 计算机网络 | James F. Kurose | |
+| 计算机网络：自顶向下方法 | James F. Kurose | |
 | 网络是怎样连接的 | 户根勤 | √ |
+| 操作系统导论 | 阿帕希杜塞尔 | |
 | 设计模式 | Erich Gamma |  |
 | Python编程-从入门到实践 | Eric Matthes | √ |
 | 流畅的Python | Luciano |  |
@@ -214,7 +216,7 @@
 | 重构 | Martin Fowler |  |
 | C++ 程序设计语言-全四册 | Bjarne | √ |
 | C++并发编程实战 | Anthony | √ |
-| Linux是怎样工作的 | 武内堂 |  |
+| Linux是怎样工作的 | 武内觉 | √ |
 | Linux/UNIX系统编程手册 | Michael Kerrisk |  |
 | STL源码剖析 | 侯捷 |  |
 | 现代C++语言核心特性解析 | 谢丙堃 |  |
