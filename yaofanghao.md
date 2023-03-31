@@ -89,9 +89,9 @@
 | XShell、Putty、VNC工具  |  | √ |
 | Git和github管理、TortoiseGit  |  | √ |
 | markdown语法  |  | √ |
-| C入门  |  |   |
-| CMake、gcc、gdb |  |   |
-| vim使用 |  |   |
+| C入门  |  | √  |
+| CMake、gcc、gdb |  | √  |
+| vim基本操作 |  | √  |
 | Python  |  | √ |
 | PyQt  |  | √ |
 | MATLAB  |  | √ |
@@ -199,7 +199,7 @@
 | 计算机网络 | 谢希仁 |  |
 | 计算机网络：自顶向下方法 | James F. Kurose | |
 | 网络是怎样连接的 | 户根勤 | √ |
-| 操作系统导论 | 阿帕希杜塞尔 | |
+| 操作系统导论 | 阿帕希杜塞尔 | √ |
 | 设计模式 | Erich Gamma |  |
 | Python编程-从入门到实践 | Eric Matthes | √ |
 | 流畅的Python | Luciano |  |
