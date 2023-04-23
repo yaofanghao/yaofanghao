@@ -28,7 +28,9 @@
   * TortoiseGit
     * 管理Git仓库，代码备份
   * VM Ware
-    * 安装虚拟机环境
+    * 虚拟机环境
+  * wsl
+    * Windows下的Linux子系统
   * **Xshell**
   * Xftp
   * putty
@@ -85,14 +87,17 @@
 | 数字图像处理基础  |  |  √ |
 | 计算机视觉基础  |  | √ |
 | 机器学习、深度学习基础  |  | √ |
-| Linux命令行入门  |  | √ |
+| Linux基础  |  | √ |
+| wsl环境  |  | √ |
 | XShell、Putty、VNC工具  |  | √ |
-| Git和github管理、TortoiseGit  |  | √ |
+| Git、TortoiseGit  |  | √ |
 | markdown语法  |  | √ |
 | C入门  |  | √  |
 | CMake、gcc、gdb |  | √  |
 | vim基本操作 |  | √  |
 | Python  |  | √ |
+| 基于Python的OpenCV实现  |  | √ |
+| 基于Python的OpenMV实现  |  | √ |
 | PyQt  |  | √ |
 | MATLAB  |  | √ |
 | LabVIEW vision开发 |  | √ |
@@ -138,11 +143,7 @@
 
 ---
 
-## 参考书
-
-* 网盘链接
-  链接：https://pan.baidu.com/s/1c4AqcZEszESKigTSSaPaaA
-  提取码：1234
+## 参考书-- 清单不完整
 
 ---
 
@@ -196,13 +197,22 @@
 |  书名   | 作者  |  是否读完 |
 |  ----  | ----  | ---- |
 | 深入理解计算机系统（CSAPP） |  |  |
+|  -  | -  | - |
 | 计算机网络 | 谢希仁 |  |
 | 计算机网络：自顶向下方法 | James F. Kurose | |
 | 网络是怎样连接的 | 户根勤 | √ |
+| 图解TCP/IP | 竹下隆史 | √ |
+| Wireshark网络分析就这么简单 | 林沛满 |  |
+|  -  | -  | - |
 | 操作系统导论 | 阿帕希杜塞尔 | √ |
+| 30天自制操作系统 | 川合秀实 |  |
+| C++并发编程实战 | Anthony | √ |
+|  -  | -  | - |
 | 设计模式 | Erich Gamma |  |
+|  -  | -  | - |
 | Python编程-从入门到实践 | Eric Matthes | √ |
 | 流畅的Python | Luciano |  |
+|  -  | -  | - |
 | C程序设计语言 | K&R |  √ |
 | C和指针 | Kenneth A.Reek |  √ |
 | C++ Primer | Stanley B. Lippman |√ |
@@ -211,15 +221,18 @@
 | Essential C++ | Stanley |  |
 | Effective C++ | Scott |  |
 | More Effective C++ | Scott |  |
+| C++ 程序设计语言-全四册 | Bjarne | √ |
+| STL源码剖析 | 侯捷 |  |
+| 现代C++语言核心特性解析 | 谢丙堃 |  |
+|  -  | -  | - |
 | 编程珠玑 | Jon Bentley | √ |
 | 代码大全 | 麦克康奈尔 |  |
 | 重构 | Martin Fowler |  |
-| C++ 程序设计语言-全四册 | Bjarne | √ |
-| C++并发编程实战 | Anthony | √ |
+|  -  | -  | - |
 | Linux是怎样工作的 | 武内觉 | √ |
 | Linux/UNIX系统编程手册 | Michael Kerrisk |  |
-| STL源码剖析 | 侯捷 |  |
-| 现代C++语言核心特性解析 | 谢丙堃 |  |
+| UNIX环境高级编程 | 史蒂文斯 |  |
+| UNIX网络编程 | 史蒂文斯 |  |
 | 深入理解Linux设备驱动程序内核机制 | 陈学松 |  |
 -------------------------------------------------
 
