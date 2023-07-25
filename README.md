@@ -2,7 +2,7 @@
 
 <!-- [![yaofanghao's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaofanghao)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=onedark) -->
 
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=yaofanghao&layout=compact&title_color=990000&hide=javascript,html,css)   
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=yaofanghao&layout=pie&title_color=990000&hide=javascript,html,css)   
 
 <!--![My GitHub stats](https://github-readme-stats.vercel.app/api/?username=yaofanghao&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=contribs,issues) <!--
 
