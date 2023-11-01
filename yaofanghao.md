@@ -4,31 +4,22 @@
 
 * 计算机应用相关：
   * **MATLAB**
-    * 学术科研必备
   * **PyCharm**
-    * Python必备
   * **Visual Stuido**
-    * C++必备
   * **VS Code**
     * 浏览代码，也可以写markdown
   * Anaconda
-    * Python虚拟环境
   * Qt Designer
-    * 制作GUI界面，非必需
   * LabVIEW
-    * 项目可能需要用到，非必需
   * Multisim
-    * 电路仿真
   * AD
-    * 电路pcb板绘制
   * **Notepad++**
-    * 快速查看各种形式文本
-  * **向日葵**
-    * 远程连接
+  * 向日葵
+  * todesk
   * TortoiseGit
     * 管理Git仓库，代码备份
   * VM Ware
-    * 虚拟机环境
+  * Hyper-V
   * wsl
     * Windows下的Linux子系统
   * **Xshell**
@@ -37,31 +28,33 @@
   * VNC viewer
     * 远程连接、文件传输
   * Adavanced IP Scanner
-	* 查看局域网下IP信息
+    * 查看局域网下IP信息
+
 * 学习:
   * **OneNote**
     * 做笔记，电脑、手机、平板实时同步
-  * **Endnote**
-    * 整理文献
+  * Endnote
   * **Zotero**
-    * 整理文献
   * **Zotero-better-notes**
-    * https://zotero.yuque.com/staff-gkhviy/better-notes/gw5d7v?
+    * <https://zotero.yuque.com/staff-gkhviy/better-notes/gw5d7v>?
+  * LaTeX
   * **Typora**
-	* 写markdown文档
+    * 写markdown
   * Mathtype
     * 编辑数学公式
   * **DeepL**
     * 文献翻译
+
 * 其他实用工具：
-  * **everything**
-    * 快速搜索文件
-  * Listary
+  * everything
+  * **Listary**
     * 快速搜索文件
   * TrafficMonitor
     * 电脑网速/CPU/内存监控小软件
   * Quicklook
     * 快速查看pdf
+  * geek
+    * 软件卸载管理工具
   * **SpaceSniffer**
     * 快速查看文件占用空间
   * **微信读书网页版**
@@ -70,7 +63,7 @@
     * 使用舒适
   * 网易邮箱大师
   * oCam
-	* 小型电脑录屏软件
+    * 小型电脑录屏软件
 
 ---
 
@@ -107,7 +100,7 @@
 | 树莓派  |  | √ |
 | Multisim  |  | √ |
 | COMSOL仿真基础  |  | √ |
-| SQL语法  |  |  |
+| SQL语法  |  | √ |
 --------------------
 
 进阶
@@ -115,7 +108,7 @@
 |  ----  | ----  | ---- |
 | 深度学习框架，Tensorflow、PyTorch等 |  | √ |
 | onnx模型推理部署  |  | √ |
-| openvino模型加速  |  | √ |
+| openvino模型加速  |  |  |
 | C++入门  |  | √ |
 | 数据结构与算法  |  | √  |
 | 操作系统 |  | √  |
@@ -138,7 +131,7 @@
 | 设计模式                       |      |      |
 | Linux系统编程                  |      |      |
 | Linux驱动内核                  |      |      |
-| docker                         |      |      |
+| docker、k8s                   |      |      |
 | 个人服务器搭建                 |      |      |
 | TF-lite、Paddle-lite 等        |      |      |
 | TinyML低功耗设备机器学习       |      |      |
@@ -158,8 +151,7 @@
 | 最优化导论 | Edwin K.P. |   |
 | 嵌入式C语言自我修养 | 王利涛 |  √ |
 | 信号与系统 | Oppenheim |   |
-| Linux命令行与shell脚本编程大全 | 布鲁姆 |  √ |
-| Linux命令行大全 | William Shotts |  √ |
+
 ------------------------------------------
 
 视觉
@@ -199,12 +191,19 @@
 |  书名   | 作者  |  是否读完 |
 |  ----  | ----  | ---- |
 | 深入理解计算机系统（CSAPP） |  |  |
+| 程序员的自我修养：链接、装载与库 | 潘爱民 |  |
+| 算法 | Kevin Wayne |  |
 |  -  | -  | - |
+| 软件测试的艺术 | Myers | √ |
+| 持续交付 | 乔梁 | |
+| 架构整洁之道 | 罗伯特·C·马丁 | |
+| 软件工程-实践者的研究方法 | 普莱斯曼 | |
 | 软件调试 | 张银奎 | |
 | 编程珠玑 | Jon Bentley | √ |
 | 代码大全 | 麦克康奈尔 |  |
 | 重构 | Martin Fowler |  |
 | 编程卓越之道 | Randall Hyde |  |
+| 设计模式 | Erich Gamma |  |
 |  -  | -  | - |
 | 计算机网络 | 谢希仁 | √ |
 | 计算机网络：自顶向下方法 | James F. Kurose | |
@@ -213,39 +212,44 @@
 | TCP/IP详解 | 史蒂文斯 |  |
 | Wireshark网络分析就这么简单 | 林沛满 |  |
 | Wireshark网络分析的艺术 | 林沛满 |  |
+| UNIX网络编程 | 史蒂文斯 |  |
 |  -  | -  | - |
 | 操作系统导论 | 阿帕希杜塞尔 | √ |
 | 30天自制操作系统 | 川合秀实 |  |
+| Orange'S：一个操作系统的设计与实现 | 于渊 |  |
 | 操作系统真象还原 | 郑钢 |  |
 | C++并发编程实战 | Anthony | √ |
 |  -  | -  | - |
 | Linux是怎样工作的 | 武内觉 | √ |
+| 鸟哥的Linux私房菜 | 鸟哥 | √ |
+| Linux命令行与shell脚本编程大全 | 布鲁姆 |  √ |
+| bash shell脚本编程经典 | 卡尔·阿尔宾 |   |
+| Linux命令行大全 | William Shotts |  √ |
 | Linux/UNIX系统编程手册 | Michael Kerrisk |  |
 | UNIX环境高级编程 | 史蒂文斯 |  |
-| UNIX网络编程 | 史蒂文斯 |  |
+| Linux-内核深度解析 | 余华兵 |  |
 | 深入理解Linux设备驱动程序内核机制 | 陈学松 |  |
-| Linux环境编程-从应用到内核 | 高 |  |
-|  -  | -  | - |
-| 设计模式 | Erich Gamma |  |
-|  -  | -  | - |
-| Python编程-从入门到实践 | Eric Matthes | √ |
-| 流畅的Python | Luciano |  |
 |  -  | -  | - |
 | C程序设计语言 | K&R |  √ |
 | C和指针 | Kenneth A.Reek |  √ |
+| C专家编程 |  |   |
 | C++ Primer | Stanley B. Lippman |√ |
+| C++ 程序设计语言-全四册 | Bjarne | √ |
+| 数据结构C语言版 | 严蔚敏 |  |
 | 数据结构C++版 | 邓俊辉 |  |
 | 剑指Offer |  | √ |
 | Essential C++ | Stanley |  |
 | Effective C++ | Scott |  |
 | More Effective C++ | Scott |  |
-| C++ 程序设计语言-全四册 | Bjarne | √ |
-| Qt6C++开发指南 | 王维波 |  |
+| Qt6C++开发指南 | 王维波 | √ |
 | STL源码剖析 | 侯捷 |  |
 | C++标准库 | 尼古拉·约组蒂斯 | |
 | 现代C++语言核心特性解析 | 谢丙堃 |  |
+|  -  | -  | - |
+| Python编程-从入门到实践 | Eric Matthes | √ |
+| 流畅的Python | Luciano |  |
 
--------------------------------------------------
+---------------
 
 其他
 
@@ -253,32 +257,11 @@
 | --------------------- | --------------- | -------- |
 | 我和LabVIEW           | 阮奇桢          | √       |
 | 树莓派开始，玩转Linux | Vamei           | √       |
+| 计算机科学导论           | 贝特鲁兹    | √       |
 | 计算机文化            | June Jamrich    | √       |
 | 黑客与画家            | Paul Graham     | √       |
 | 编码                  | Charles Petzold | √       |
 | 工程控制论            | 钱学森          |          |
-
----
-
-## 课程--。。。懒得更新了
-
-* up主
-  * 跟李沐学AI https://space.bilibili.com/1567748478
-  * 3Blue1Brown https://space.bilibili.com/88461692
-  * 王木头学科学 https://space.bilibili.com/504715181
-  * 同济子豪兄 https://space.bilibili.com/1900783
-  * Bubbliiiing https://www.bilibili.com/video/BV1LZ4y1W7Ve
-* 网课
-  * 翁恺C语言 https://www.bilibili.com/video/BV19W411B7w1?share_source=copy_web&vd_source=85816208bdca2a40c310bef0b0d541b4
-  * 计算机科学速成课 40集全/精校 - Crash Course Computer Science https://www.bilibili.com/video/BV1EW411u7th
-  * 吴恩达机器学习系列课程 https://www.bilibili.com/video/BV164411b7dx
-  * Linux兄弟连 https://www.bilibili.com/video/BV1mW411i7Qf?share_source=copy_web&vd_source=85816208bdca2a40c310bef0b0d541b4
-  * 机器学习-白板推导系列 https://www.bilibili.com/video/BV1aE411o7qd
-  * 计算机视觉与深度学习 北京邮电大学 鲁鹏 https://www.bilibili.com/video/BV1V54y1B7K3
-  * 子豪兄 精讲CS231N斯坦福计算机视觉公开课（2020最新）https://www.bilibili.com/video/BV1K7411W7So
-  * 子豪兄 精读人工智能经典论文 https://www.bilibili.com/video/BV1r7411X7LC
-  * 深度学习之神经网络的结构 https://www.bilibili.com/video/BV1bx411M7Zx/
-  * 九曲阑干-CSAPP-深入理解计算机系统解读系列 https://space.bilibili.com/354767108?spm_id_from=333.999.0.0
 
 ---
 
@@ -296,4 +279,4 @@
 
 ## 主页
 
-* https://github.com/yaofanghao
+* <https://github.com/yaofanghao>
